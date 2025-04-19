@@ -1,0 +1,5 @@
+Password of finnhub Stock API - $WvZW6Jwr4tMq!X 
+
+API-key - cvvoqnpr01qi0bq6nq0gcvvoqnpr01qi0bq6nq10
+Secret - cvvosehr01qi0bq6o4fg
+url - https://finnhub.io/apiv1/stock/symbol?exchange=US&token=cvvoqnpr01qi0bq6nq0gcvvoqnpr01qi0bq6nq10
